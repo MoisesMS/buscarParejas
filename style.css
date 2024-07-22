@@ -1,0 +1,10 @@
+.carta-reverso {
+  background-color: rgb(255, 68, 0);
+  color: rgb(255, 68, 0);
+  border-radius: 15px;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  margin: 10px;
+  text-align: center;
+}
