@@ -1,1 +1,0 @@
-export const pokemon = ["bulbasaur", "charmander", "squirtle"]
